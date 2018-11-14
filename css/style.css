@@ -1441,7 +1441,7 @@ footer .footer__container2 .footer__image3{
 		font-size: 20px;
 	}
 	.evento  .leftbox .content p{
-		text-align: justify;
+		text-align: none;
 		font-size: 15px;
 	}
 	.evento .contenedor__events{
